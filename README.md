@@ -1,10 +1,11 @@
 
 # Ai Assistant App
 
-I created a simple Next.js app that leverages LangChain and FastAPI to assist with mathematical questions. The app provides users with an interactive interface where they can input mathematical queries, and it processes the requests using LangChain's capabilities for reasoning and FastAPI for efficient backend processing. The system ensures quick and accurate responses, making it a handy tool for solving math-related problems.
+I created a simple Next.js app that leverages LangChain and FastAPI to assist with basic queries like chat gpt, it can fetch current data from tools like duckduckgo and generate perfect data using llm .
+Also it has memory which can remember past interactions.
 
 ## Features
-- Accepts mathematical queries from users.
+- Accepts basic queries from users.
 - Uses **LangChain** for reasoning and processing.
 - Fast backend processing with **FastAPI**.
 - Provides quick and accurate responses.
